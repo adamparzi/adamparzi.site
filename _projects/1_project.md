@@ -1,25 +1,19 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: My first project example
+description: Here's what my first project would look like without any thumbnail or publications
+img: 
 importance: 1
-category: fun
-related_publications: true
+category: 
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Remember (using greater-than):
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+>Every project has a beautiful feature showcase page.
+>It's easy to include images in a flexible 3-column grid format.
+>Make your photos 1/3, 2/3, or full width.
+>"img: /assets/img/12.jpg" in frontmatter to add a thumbnail to portofolio page
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
