@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Some projects that I'm currently working on. WIP
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [for fun]
 horizontal: false
 ---
