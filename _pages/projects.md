@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Projects
+title: projects
 permalink: /projects/
 description: Some projects that I'm currently working on. WIP
 nav: true
