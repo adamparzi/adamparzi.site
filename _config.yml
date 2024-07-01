@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Preferred contact via email
+  Preferred contact via email at <a href= "mailto: adamparzi@gmail.com">adamparzi@gmail.com</a>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My blog # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_description: Random ideas
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
