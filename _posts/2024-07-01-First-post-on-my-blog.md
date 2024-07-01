@@ -12,7 +12,7 @@ categories: #disabled
 **Notes (2 asterisks)** is for jotting down anything I find interesting, whether it's relevant to engineering or otherwise. **Thoughts** are for less refined things coming to mind that I should find more resources about (optimally, to be eventually put into notes). Misc is misc.
 
 # one hashtag
+
 ## two hashtag
+
 ### three hashtag
-
-
